@@ -4,10 +4,15 @@ Cheat_Roblox_Dead_By_Daylight was made exclusively not for use, but for familiar
 
 # Cheat functions
 Wallhack for survivors and keeler, activation (Z).
+
 Speedhack will automatically go forward, you only need to direct in what direction you need, you can adjust the speed through the code, activation (X).
+
 Flyhack on the space bar to rise up, and on shift to fall down, activation (C).
+
 You can also change colors Wallhack, activation (V).
+
 Insert - open and close the reader.
+
 Home - unload read from the game, before using it, disable all functions.
 
 # License
