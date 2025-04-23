@@ -1,6 +1,6 @@
 # Cheat_Roblox_Dead_By_Daylight
 
-Cheat_Roblox_Dead_By_Daylight was made exclusively not for use, but for familiarization, to then understand how to make a cheat for this playstyle or another playstyle or even cut something from my read
+Cheat_Roblox_Dead_By_Daylight was made exclusively not for use, but for familiarization, to then understand how to make a cheat for this playstyle or another playstyle or even cut something from my read.
 
 # Cheat functions
 Wallhack for survivors and keeler, activation (Z).
